@@ -9,3 +9,6 @@ static/css/tailwind.css
 *.sqlite*
 
 result
+
+.nova/
+.codex/
